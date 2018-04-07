@@ -329,7 +329,7 @@ ul.numbered li{
 
 #twotwo{ display: none;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1248px) {
 #oneone{
     display: none;
   }
